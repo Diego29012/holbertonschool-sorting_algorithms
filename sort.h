@@ -23,5 +23,5 @@ void print_list(const listint_t *list);
 void bubble_sort(int *array, size_t size);
 void insertion_sort_list(listint_t **list);
 void selection_sort(int *array, size_t size);
-
+void quick_sorty(int *array, int *p_array, size_t size, size_t p_size);
 #endif
