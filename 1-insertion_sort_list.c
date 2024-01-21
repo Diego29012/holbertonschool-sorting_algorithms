@@ -3,7 +3,7 @@
 /**
  * insertion_sort_list - sorts a doubly linked list of int in ascending order
  * @list: doubly list of interger
- **/
+ */
 
 void insertion_sort_list(listint_t **list)
 {
